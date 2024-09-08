@@ -1,0 +1,3 @@
+C:/Users/amina/CLionProjects/HTML-Validator/cmake-build-debug/CMakeFiles/HTML_Validator.dir
+C:/Users/amina/CLionProjects/HTML-Validator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/amina/CLionProjects/HTML-Validator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
